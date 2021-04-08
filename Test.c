@@ -11,7 +11,7 @@ int main(void)
     int y = get_int("y: ");
 
     // if x is greater than y add 1 to x and show the result
-    // if x is less than y and x + y together
+    // if x is less than y add x + y together
     // if x is equal to y, print x and y are equal
     if (x > y)
     {
